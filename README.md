@@ -1,16 +1,17 @@
 # ML-Powerlifting
-Authors: 
+**Authors**
 - Ankushev Vladislav
 - Makarov Sergei 
 - Shvartser Grigory
-
-![image](https://github.com/vladank99/ML-Powerlifting/assets/95710420/ff93c802-52de-4ccd-8f8e-91c0516fae26)
 ---
 ### Dataset Description
 1. Dataset – from [Kaggle](https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database/code)
 2. It is a snapshot of the OpenPowerlifting database as of January 2024
 3. OpenPowerlifting is creating a public-domain archive of powerlifting history
 4. To see description of each column - go to Kaggle, find Data Explorer tab, click on 'openpowerlifting.csv'
+
+![image](https://github.com/vladank99/ML-Powerlifting/assets/95710420/ff93c802-52de-4ccd-8f8e-91c0516fae26)
+
 ---
 ### ML task
 - **Target:** Best 3 Deadlift
