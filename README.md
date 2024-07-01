@@ -25,6 +25,30 @@
 2. Download sufficient libraries (pandas, numpy, plotly, matplotlib, seaborn, statsmodels, sklearn, patsy)
 3. Run each cell
 --- 
+### Results 
+**OLS regression:** (best model, no overfitting)
+- MAE = 14.1
+- RMSE = 18.6
+- R2^2 = 0.9
+
+**OLS & PCA regression:**
+- PCA = 3 components
+- MAE = 16.3
+- RMSE = 21.2
+- R2^2 = 0.9
+  
+---
+### Suggestions
+We observed **underfitting in data**  
+Model should be more complex   
+List below - potential columns to add from external sources:
+- height
+- hand grip
+- level of testeron
+- foot size
+- num of purchased equipment 
+
+---
 ### Different types of Lift
 ![image](https://github.com/vladank99/ML-Powerlifting/assets/95710420/97cf797c-8c2d-4ac6-a4b6-d9d7bde53e12)
 
