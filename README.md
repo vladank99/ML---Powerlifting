@@ -46,6 +46,11 @@ Based on:
 - MAE = 16.3
 - RMSE = 21.2
 - R2^2 = 0.9
+
+**Polinomal &  Ridge Regression:**
+- MAE = 13.9
+- RMSE = 18.4
+- R2^2 = 0.9
   
 ---
 ### Recommendations
