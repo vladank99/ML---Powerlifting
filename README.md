@@ -32,7 +32,7 @@ Based on:
 --- 
 ### How to run the code
 1. Download 'openpowerlifting-2024-01-06-4.csv' file from Kaggle
-2. Download sufficient libraries (pandas, numpy, plotly, matplotlib, seaborn, statsmodels, sklearn, patsy)
+2. Download sufficient libraries using requirements.txt in CLI: pip install -r requirements.txt
 3. Run each cell
 --- 
 ### Results 
