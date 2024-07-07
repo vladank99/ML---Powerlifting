@@ -38,17 +38,20 @@ Based on:
 ### Results 
 **OLS regression:** (best model, no overfitting)
 - MAE = 14.1
+- MAE (med) = 11.2
 - RMSE = 18.6
 - R2^2 = 0.9
 
 **OLS & PCA regression:**
 - PCA = 3 components
 - MAE = 16.3
+- MAE (med) = 16.3
 - RMSE = 21.2
 - R2^2 = 0.9
 
 **Polinomal &  Ridge Regression:**
 - MAE = 13.9
+- MAE (med) = 11.2
 - RMSE = 18.4
 - R2^2 = 0.9
   
