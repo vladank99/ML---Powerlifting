@@ -13,6 +13,16 @@
 ![image](https://github.com/vladank99/ML-Powerlifting/assets/95710420/ff93c802-52de-4ccd-8f8e-91c0516fae26)
 
 ---
+### Problem statement    
+   
+Can we predict **Best DeadLift?**     
+
+Based on:
+- **other types of Lifts** – Squat & Bench.
+- **personal characteristics** – Age & Bodyweight
+
+---
+
 ### ML task
 - **Target:** Best 3 Deadlift
 - **Predictors:** Age, Sex, Bodyweight, Best 3 Squat, Best3Bench
@@ -38,7 +48,7 @@
 - R2^2 = 0.9
   
 ---
-### Suggestions
+### Recommendations
 We observed **underfitting in data**  
 Model should be more complex   
 List below - potential columns to add from external sources:
