@@ -54,6 +54,12 @@ Based on:
 - MAE (med) = 11.2
 - RMSE = 18.4
 - R2^2 = 0.9
+
+**Random forest:**
+- MAE = 14.2
+- MAE (med) = 11.5
+- RMSE = 18.4
+- R2^2 = 0.9
   
 ---
 ### Recommendations
